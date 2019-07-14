@@ -9,6 +9,7 @@
 # $ cd rus
 # $ sh v2.sh
 
+# **----------------------**
 # **Jika sudah masuk silahkan pilih nomor 1 dulu untuk mendowdload username dan pasword nya jika**
 # **sudah tau username dan pasword nya kalian pilih nomor 2 lalu silahkan login**
 
