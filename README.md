@@ -1,10 +1,11 @@
-# **49 TOOLS TERMUX**
+# **54 TOOLS TERMUX**
 # **Create: 2018**
-# **update: 2019 versi 6.3**
+# **update: 2019 versi 6.4**
 # **----------------------**
 
 # INSTALL DI TERMUX:
 # $ pkg install bash
+# $ pkg install python2
 # $ pkg install git
 # $ git clone https://github.com/Rusmana-ID/rus
 # $ cd rus
