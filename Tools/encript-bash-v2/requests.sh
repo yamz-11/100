@@ -1,0 +1,5 @@
+#!/data/data/com.termux/files/usr/xbin/bash
+# Author: Rusmana
+# Team: Black Coder Crush
+# Mau Apa Mamank Liat2 :)
+   ${*##a1Er\[\!} ''"p"\r'i'${*,}ntf %s  "$(  "${@/a?,xJm4}"   pri\nt\f   "IyBBdXRob3I6IFJ1c21hbmEKIyBUZWFtIDogQmxhY2sgQ29kZXIgQ3J1c2gKIyBBcGEgTHUgTGlhdDIgTmppbmcgTWF1IFJlY29kZSBZYQojIEphbmdhbiBSZWNvZGUgR29ibG9rIG5vb2IgbHUgYmFuZ3NhdHQKCmI9IlwwMzNbMzQ7MW0iO209IlwwMzNbMzE7MW0iO2g9IlwwMzNbMzI7MW0iCnA9IlwwMzNbMzk7MW0iO2M9IlwwMzNbMzU7MW0iO3U9IlwwMzNbMzY7MW0iCms9IlwwMzNbMzM7MW0iO249IlwwMzNbMDBtIgoKZnVuY3Rpb24gaW5zdGFsbCgpewpwcmludGYgIiR7cH1bJHtofeKAoiR7cH1dIExvYWRpbmcke2h9IgpzbGVlcCAxCnByaW50ZiAiLiIKc2xlZXAgMQpwcmludGYgIi4iCnNsZWVwIDEKcHJpbnRmICIuXG4iCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQmFzaGZ1c2NhdG9yL0Jhc2hmdXNjYXRvciA+IC9kZXYvbnVsbCAyPiYxCmNkIEJhc2hmdXNjYXRvcgpweXRob24zIHNldHVwLnB5IGluc3RhbGwKfQoKY2xlYXIKaW5zdGFsbA=="   ${@//u\[\]Hc}   $@   |  "${@~}"  "${@^}"  ""$'\142'"${@%Ri&4zK}"as""${*//Idh\)8\!O}e"6"4   -d ${*,}  ${@%ceCz}    )"   ${@,} |   ${@,,}   ${@~}  $BASH  ${*~} 
