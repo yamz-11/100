@@ -21,7 +21,7 @@
 
 # **Lalu jika sdh kalian pilih nomor 2 untuk menjalankan tols nya**
 # **dan Selamat menggunakan dan gunakan dengan bijak ya**
-![5](https://user-images.
+z
 
 
 
