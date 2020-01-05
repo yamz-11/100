@@ -1,6 +1,6 @@
 # **68 TOOLS TERMUX**
 # **Create: 2017**
-# **update: 2019 versi 6.8**
+# **update: 2020 versi 6.9**
 # **----------------------**
 
 # INSTALL DI TERMUX:
