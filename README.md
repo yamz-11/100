@@ -1,4 +1,4 @@
-# **84 TOOLS TERMUX**
+# **86 TOOLS TERMUX**
 # **Create: 2017**
 # **update: 2020 versi 7.0**
 # **----------------------**
