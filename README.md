@@ -1,6 +1,6 @@
-# **86 TOOLS TERMUX**
+# **101 TOOLS TERMUX**
 # **Create: 2017**
-# **update: 2020 versi 7.0**
+# **update: 2020 versi: Dark 1.0**
 # **----------------------**
 
 # INSTALL DI TERMUX:
