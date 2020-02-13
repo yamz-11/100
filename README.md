@@ -21,7 +21,8 @@
 
 # **Lalu jika sdh kalian pilih nomor 2 untuk menjalankan tols nya**
 # **dan Selamat menggunakan dan gunakan dengan bijak ya**
-z
+![Screenshot_2020-02-13-10-10-05](https://user-images.githubusercontent.com/41493567/74400295-12eb9280-4e50-11ea-9539-a9053db9eb90.png)
+
 
 
 
